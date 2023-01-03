@@ -1,0 +1,83 @@
+*{
+    padding: 10px;
+    margin: 0px;
+}
+
+.heading_container h1{
+    background: #fac002;
+    color: #05219edd;
+    text-align: right;
+}
+
+.heading_container h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    background: #ccffee;
+    text-align: center;
+}
+
+.heading_container h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    background: #ffdeca;
+}
+
+.heading{
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: 900;
+    font-size: 30px;
+    background: #adcefb;
+    text-align: justify;
+}
+
+.content_container p{
+    color: navy;
+    font-family: sans-serif;
+    font-size: 25px;
+    background: #cedfab;
+}
+
+.content_container li{
+    font-size: 20px;
+    color: #ff00c8;
+}
+
+.css_styling {
+    background: #dbcefacf;
+}
+
+.css_styling h3{
+    text-align: center;
+    font-size: 25px;
+    color: #0fbbc7;
+}
+
+
+.highlight {
+    color: #04c704;
+    font-weight: 700;
+}
+
+.my_blog{
+    background: #ffcdea;
+    padding: 30px;
+    margin: 20px;
+}
+
+.my_blog h3{
+    color: #04c704;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.my_blog p{
+    background: url("../images/professional-programmer-working-late-dark-office.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 30px;
+}
+
